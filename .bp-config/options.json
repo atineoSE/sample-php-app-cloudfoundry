@@ -1,5 +1,5 @@
 {
   "WEBDIR": "www",
   "PHP_VERSION": "{PHP_56_LATEST}",
-  "WEB_SERVER": "httpd"  
+  "WEB_SERVER": "httpd"
 }
